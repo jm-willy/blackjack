@@ -1,2 +1,2 @@
 # blackjack
-Two players Ract blackjack
+Two players React blackjack
